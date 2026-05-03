@@ -2,7 +2,6 @@
 <div align="center">
 
 <h1>Building Blocks for Multi-Agent Design</h1>
-<h3>By: Jan Alvin Dimla</h3>
 
 ![Alt text](images/thumbnail.png)
 
