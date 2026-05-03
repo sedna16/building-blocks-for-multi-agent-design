@@ -31,18 +31,18 @@ I hope this helps.
 ## The Blocks
 
 - Simple: A-C-A [Link](## Simple: A-C-A)
-- Verified Result: A-C-D-A [Link](## Simple: A-C-A)
-- Parallel: A-C-A [Link](## Simple: A-C-A)
-- Single Verification Parallel: A-C-C-D-A [Link](## Simple: A-C-A)
-- Multi-Verify Parallel: A-CD-CD-A [Link](## Simple: A-C-A)
-- Simple Router: A-B-C-A [Link](## Simple: A-C-A)
-- Verified Router: A-B-C-D-A [Link](## Simple: A-C-A)
-- Per Lane Verified Router: A-B-CD-A [Link](## Simple: A-C-A)
-- Simple Iterator: A-C-D-A [Link](## Simple: A-C-A)
-- Parallel Iterator: A-CD-CD-A [Link](## Simple: A-C-A)
-- Routed Iterator: A-B-C-D-A [Link](## Simple: A-C-A)
-- Per Lane Iterator: A-B-CD-A [Link](## Simple: A-C-A)
-- Perpetual: A-CC-A [Link](## Simple: A-C-A)
+- Verified Result: A-C-D-A [Link](## Verified Result: A-C-D-A)
+- Parallel: A-C-A [Link](## Parallel: A-C-A)
+- Single Verification Parallel: A-C-C-D-A [Link](## Single Verification Parallel: A-C-C-D-A)
+- Multi-Verify Parallel: A-CD-CD-A [Link](## Multi-Verify Parallel: A-CD-CD-A)
+- Simple Router: A-B-C-A [Link](## Simple Router: A-B-C-A)
+- Verified Router: A-B-C-D-A [Link](## Verified Router: A-B-C-D-A)
+- Per Lane Verified Router: A-B-CD-A [Link](## Per Lane Verified Router: A-B-CD-A)
+- Simple Iterator: A-C-D-A [Link](## Simple Iterator: A-C-D-A)
+- Parallel Iterator: A-CD-CD-A [Link](## Parallel Iterator: A-CD-CD-A)
+- Routed Iterator: A-B-C-D-A [Link](## Routed Iterator: A-B-C-D-A)
+- Per Lane Iterator: A-B-CD-A [Link](## Per Lane Iterator: A-B-CD-A)
+- Perpetual: A-CC-A [Link](## Perpetual: A-CC-A)
 - more will follow.
 
 ---
