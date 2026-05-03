@@ -30,19 +30,19 @@ I hope this helps.
 
 ## The Blocks
 
-- Simple: A-C-A [Link](## Simple: A-C-A)
-- Verified Result: A-C-D-A [Link](## Verified Result: A-C-D-A)
-- Parallel: A-C-A [Link](## Parallel: A-C-A)
-- Single Verification Parallel: A-C-C-D-A [Link](## Single Verification Parallel: A-C-C-D-A)
-- Multi-Verify Parallel: A-CD-CD-A [Link](## Multi-Verify Parallel: A-CD-CD-A)
-- Simple Router: A-B-C-A [Link](## Simple Router: A-B-C-A)
-- Verified Router: A-B-C-D-A [Link](## Verified Router: A-B-C-D-A)
-- Per Lane Verified Router: A-B-CD-A [Link](## Per Lane Verified Router: A-B-CD-A)
-- Simple Iterator: A-C-D-A [Link](## Simple Iterator: A-C-D-A)
-- Parallel Iterator: A-CD-CD-A [Link](## Parallel Iterator: A-CD-CD-A)
-- Routed Iterator: A-B-C-D-A [Link](## Routed Iterator: A-B-C-D-A)
-- Per Lane Iterator: A-B-CD-A [Link](## Per Lane Iterator: A-B-CD-A)
-- Perpetual: A-CC-A [Link](## Perpetual: A-CC-A)
+- Simple: A-C-A [Link](https://github.com/sedna16/building-blocks-for-multi-agent-design#simple-a-c-a)
+- Verified Result: A-C-D-A [Link](https://github.com/sedna16/building-blocks-for-multi-agent-design#verified-result-a-c-d-a)
+- Parallel: A-C-A [Link](https://github.com/sedna16/building-blocks-for-multi-agent-design#parallel-a-c-a)
+- Single Verification Parallel: A-C-C-D-A [Link](https://github.com/sedna16/building-blocks-for-multi-agent-design#single-verification-parallel-a-c-c-d-a)
+- Multi-Verify Parallel: A-CD-CD-A [Link](https://github.com/sedna16/building-blocks-for-multi-agent-design#multi-verify-parallel-a-cd-cd-a)
+- Simple Router: A-B-C-A [Link](https://github.com/sedna16/building-blocks-for-multi-agent-design#simple-router-a-b-c-a)
+- Verified Router: A-B-C-D-A [Link](https://github.com/sedna16/building-blocks-for-multi-agent-design#verified-router-a-b-c-d-a)
+- Per Lane Verified Router: A-B-CD-A [Link](https://github.com/sedna16/building-blocks-for-multi-agent-design#per-lane-verified-router-a-b-cd-a)
+- Simple Iterator: A-C-D-A [Link](https://github.com/sedna16/building-blocks-for-multi-agent-design#simple-iterator-a-c-d-a)
+- Parallel Iterator: A-CD-CD-A [Link](https://github.com/sedna16/building-blocks-for-multi-agent-design#parallel-iterator-a-cd-cd-a)
+- Routed Iterator: A-B-C-D-A [Link](https://github.com/sedna16/building-blocks-for-multi-agent-design#routed-iterator-a-b-c-d-a)
+- Per Lane Iterator: A-B-CD-A [Link](https://github.com/sedna16/building-blocks-for-multi-agent-design#per-lane-iterator-a-b-cd-a)
+- Perpetual: A-CC-A [Link](https://github.com/sedna16/building-blocks-for-multi-agent-design#perpetual-a-cc-a)
 - more will follow.
 
 ---
