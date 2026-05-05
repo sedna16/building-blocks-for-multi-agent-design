@@ -12,7 +12,6 @@ This a collection of building blocks that you can use for creating Multi-Agent D
 ![Static Badge](https://img.shields.io/badge/html-yes-blue)
 ![Static Badge](https://img.shields.io/badge/contributions-allowed-yellow)
 ![Maintenance](https://img.shields.io/maintenance/yes/2026)
-![Static Badge](https://img.shields.io/badge/just%20the%20message-8A2BE2) 
 
 </div>
 
